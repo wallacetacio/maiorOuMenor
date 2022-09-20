@@ -1,0 +1,15 @@
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\bin\Debug\net6.0\maiorOuMenor.exe
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\bin\Debug\net6.0\maiorOuMenor.deps.json
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\bin\Debug\net6.0\maiorOuMenor.runtimeconfig.json
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\bin\Debug\net6.0\maiorOuMenor.dll
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\bin\Debug\net6.0\maiorOuMenor.pdb
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\maiorOuMenor.csproj.AssemblyReference.cache
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\maiorOuMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\maiorOuMenor.AssemblyInfoInputs.cache
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\maiorOuMenor.AssemblyInfo.cs
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\maiorOuMenor.csproj.CoreCompileInputs.cache
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\maiorOuMenor.dll
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\refint\maiorOuMenor.dll
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\maiorOuMenor.pdb
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\maiorOuMenor.genruntimeconfig.cache
+C:\Users\wki\Desktop\FATEC\lista\maiorOuMenor\obj\Debug\net6.0\ref\maiorOuMenor.dll
